@@ -1,5 +1,5 @@
 ## ShabingusCraft Server (shabingus.duckdns.org, bedrock port 19132)
-Hello and welcome to the official ShabingusCraft Minecraft Server. This is a Minecraft server that supports all accounts, between Premium Java, Cracked Java and Bedrock clients. We also allow all Minecraft versions to join.
+Hello and welcome to the official ShabingusCraft Minecraft Server website. This site is a work in progress. This is a Minecraft server that supports all accounts, between Premium Java, Cracked Java and Bedrock clients. We also allow all Minecraft versions to join.
 
 We have a few gamemodes:
 
