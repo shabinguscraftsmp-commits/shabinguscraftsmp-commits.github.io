@@ -10,4 +10,4 @@ We have a few gamemodes:
  
 We have trading plugins, and an auction house system. A shop system will come soon, and same with jobs. As of now, there is no good way to earn money other than ask staff or sell. Soon we will have an online store to buy ingame money with real money, or a shop plugin to let you sell items.
 
-Web Map: [shabingus.duckdns.org](shabingus.duckdns.org)
+Web Map: [shabingus.duckdns.org](http://shabingus.duckdns.org)
